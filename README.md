@@ -1,164 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shri Ram</h1>
+<h1 align="center">Hi 👋, I'm Shri Ram M R</h1>
 
 <h3 align="center">
-Backend Software Engineer | Java • Spring Boot • Node.js • Full Stack Developer
+Backend Software Engineer | Full Stack Developer | Java • Spring Boot • Node.js
 </h3>
 
 <p align="center">
-Building scalable backend systems, real-time applications, and AI-powered software solutions.
+Building scalable backend systems, real-time applications, and AI-powered software.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EAB308&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;React+%7C+Next.js+%7C+TypeScript;Distributed+Systems+%7C+WebSockets;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
 
+<a href="https://portfolio-website-six-nu-34.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/shri-ram8">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shri-ram-m-r">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ramsulochana08@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a **Backend Software Engineer** passionate about building scalable, secure, and high-performance applications.
+🎓 Final Year Electronics & Communication Engineering Student at **SSN College of Engineering**
 
-My interests span **Backend Engineering, Full Stack Development, Distributed Systems, Artificial Intelligence, and Cloud Technologies.**
+💻 Backend-focused Software Engineer passionate about building scalable systems, secure APIs, distributed architectures, and modern full-stack applications.
 
-I enjoy solving real-world engineering problems by designing clean architectures, building robust APIs, and developing real-time systems.
-
-Currently focused on
-
-- Backend Engineering
-- Distributed Systems
-- System Design
-- Cloud-native Applications
-- Artificial Intelligence
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_WebSocket-6DB33F?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Zustand-593D88?style=flat-square"/>
-
-</p>
-
----
-
-## Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-
-</p>
-
----
-
-## DevOps & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-
-</p>
+🚀 I enjoy designing production-grade software with clean architecture while continuously learning new technologies.
 
 ---
 
@@ -166,16 +48,15 @@ Currently focused on
 
 ## Software Developer Intern — AssistLana
 
-**Tech Stack:** Node.js • Express.js • PostgreSQL • Docker
-
-- Developed a scalable **Multi-Tenant SaaS Platform**
-- Implemented secure REST APIs
-- Built JWT Authentication
+- Developed a scalable Multi-Tenant SaaS Platform
+- Node.js & Express.js Backend
+- PostgreSQL Database Design
+- Dockerized Development
+- JWT Authentication
 - Role-Based Access Control (RBAC)
-- PostgreSQL indexing and optimization
+- REST API Development
 - Audit Logging
-- Dockerized deployment
-- Organization-scoped architecture supporting multiple tenants
+- Organization Scoped Architecture
 
 ---
 
@@ -183,38 +64,28 @@ Currently focused on
 
 ## 🔐 CipherLink
 
-**End-to-End Encrypted Real-Time Messaging Platform**
+**Secure End-to-End Encrypted Messaging Platform**
 
 **Tech Stack**
 
-Java • Spring Boot • Spring Security • WebSocket (STOMP) • JWT • Next.js • TypeScript • Zustand • WebRTC
+- Java
+- Spring Boot
+- Spring Security
+- Spring WebSocket (STOMP)
+- JWT Authentication
+- Next.js
+- React
+- TypeScript
+- Zustand
+- WebRTC
 
 **Highlights**
 
-- End-to-End Encryption
-- Secure JWT Authentication
 - Real-time messaging
+- Secure authentication
+- End-to-End Encryption
 - Voice & Video Calling
-- Auto-reconnecting WebSocket client
-
----
-
-## 🏢 Multi-Tenant SaaS Platform
-
-**Scalable Backend Platform**
-
-**Tech Stack**
-
-Node.js • Express.js • PostgreSQL • Docker • JWT • RBAC
-
-**Highlights**
-
-- Multi-Tenant Architecture
-- Organization-based Isolation
-- RESTful APIs
-- Authentication & Authorization
-- Audit Logging
-- Docker Deployment
+- Distributed architecture
 
 ---
 
@@ -224,7 +95,11 @@ Node.js • Express.js • PostgreSQL • Docker • JWT • RBAC
 
 **Tech Stack**
 
-ASP.NET Core • PostgreSQL • OCR • ANPR • OpenStreetMap APIs
+- ASP.NET Core
+- PostgreSQL
+- OCR
+- ANPR
+- OpenStreetMap APIs
 
 ---
 
@@ -234,40 +109,93 @@ ASP.NET Core • PostgreSQL • OCR • ANPR • OpenStreetMap APIs
 
 **Tech Stack**
 
-Flask • PostgreSQL • Gemini AI • OCR • JWT Authentication
+- Flask
+- PostgreSQL
+- Google Gemini AI
+- JWT Authentication
+- OCR
+- NLP
 
 ---
 
 ## 📰 TruthScan
 
-**AI Powered Fake News Detection System**
+**Machine Learning Fake News Detection Platform**
 
 **Tech Stack**
 
-Python • BERT • XGBoost • LightGBM • scikit-learn • Pandas • NumPy
-
-**Highlights**
-
-- Trained multiple Machine Learning & Deep Learning models
-- Achieved **0.95 AUC-ROC**
-- Comparative evaluation of transformer and ensemble models
-
----
-
-# 📚 Currently Learning
-
-- Spring Boot Microservices
-- Distributed Systems
-- Kubernetes
-- Docker
-- Cloud Deployment
-- Advanced System Design
-- High-Level Design (HLD)
-- Low-Level Design (LLD)
+- Python
+- BERT
+- XGBoost
+- LightGBM
+- Scikit-Learn
+- Pandas
+- NumPy
 
 ---
 
-# 📊 GitHub Statistics
+# 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-593D88?style=flat-square)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+---
+
+# 🌐 Portfolio
+
+### 🚀 Live Portfolio
+
+### **https://portfolio-website-six-nu-34.vercel.app/**
+
+Explore my projects, engineering experience, technical skills, and software architecture work.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -295,7 +223,7 @@ Python • BERT • XGBoost • LightGBM • scikit-learn • Pandas • NumPy
 
 🏅 Finalist — Zenith Hackathon, SSN College of Engineering
 
-🏅 Innovation Funding Program Recipient (₹30,000)
+🏅 Innovation Funding Program Grant Recipient (₹30,000)
 
 🏅 Shortlisted — NatWest Code for Purpose Hackathon
 
@@ -303,18 +231,33 @@ Python • BERT • XGBoost • LightGBM • scikit-learn • Pandas • NumPy
 
 ---
 
+# 📚 Currently Learning
+
+- Advanced Spring Boot
+- Distributed Systems
+- Microservices
+- System Design
+- Kubernetes
+- Cloud Engineering
+
+---
+
 # 🤝 Let's Connect
 
-📧 **Email:** **ramsulochana08@gmail.com**
+I'm always interested in collaborating on projects involving:
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+- Backend Engineering
+- Distributed Systems
+- Full Stack Development
+- Artificial Intelligence
+- Open Source
 
-💻 **GitHub:** https://github.com/shri-ram8
+Feel free to connect!
 
 ---
 
 <p align="center">
 
-<i>"I enjoy building scalable software that solves real-world problems through clean architecture, secure systems, and continuous learning."</i>
+<i>"Building scalable software with clean architecture and solving real-world engineering problems."</i>
 
 </p>
