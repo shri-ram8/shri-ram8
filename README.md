@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Shri Ram</h1>
 
 <h3 align="center">
@@ -265,4 +264,3 @@ Feel free to connect with me!
 <p align="center">
 <i>"Building scalable software, solving real-world problems, and continuously learning."</i> 🚀
 </p>
-```
